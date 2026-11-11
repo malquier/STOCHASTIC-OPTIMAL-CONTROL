@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/Socpo.egg-info/PKG-INFO
+src/Socpo.egg-info/SOURCES.txt
+src/Socpo.egg-info/dependency_links.txt
+src/Socpo.egg-info/requires.txt
+src/Socpo.egg-info/top_level.txt
